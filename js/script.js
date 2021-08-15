@@ -8,3 +8,4 @@ var app = new Vue({
       url: "https://cdn.pixabay.com/photo/2021/07/11/10/39/fantasy-6403406_1280.jpg"
     }
 });
+
